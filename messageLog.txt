@@ -1,0 +1,6 @@
+Message Log 
+
+guest1 has joined the chat
+guest2 has joined the chat
+guest3 has joined the chat
+guest1 has been kicked by guest3
